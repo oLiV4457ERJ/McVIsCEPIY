@@ -22,7 +22,6 @@
 
 .byebug_history
 
-/config/master.key
 /public/packs-test
 /public/packs
 /attachments

@@ -42,7 +42,6 @@ IndentFunctionDeclarationAfterType: false
 SortIncludes:    false
 SpacesInParentheses: false
 SpacesInAngles:  false
-SpaceInEmptyParentheses: false
 SpacesInCStyleCastParentheses: false
 SpaceAfterControlStatementKeyword: true
 SpaceAfterCStyleCast: true
